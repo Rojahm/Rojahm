@@ -35,6 +35,3 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-
-- name: GitHub-Profile-3D-Contrib
-  uses: yoshi389111/github-profile-3d-contrib@0.6.0
