@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rojahm
-- 👀 I’m interested in coding
+- 👀 I’m interested in everything!
 - 🌱 I’m currently learning django and python
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on python projects because im practicing it now
 - 📫 How to reach me s.roja.h.m@gmail.com
 
 <!---
