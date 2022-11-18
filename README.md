@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rojahm
 - 👀 I’m interested in everything!
-- 🌱 I’m currently learning django and python
-- 💞️ I’m looking to collaborate on python projects because im practicing it now
+- 🌱 I’m currently learning at SheCodes Workshops 
 - 📫 How to reach me s.roja.h.m@gmail.com
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
