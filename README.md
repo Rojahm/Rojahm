@@ -4,6 +4,8 @@
  <br />
  👀 I’m interested in a great remote job, to spend more time with my cats and less time commuting! 
  <br />
+ 💻 Interesed in linux and working to get my LPIC-1
+ <br />
  🌱 I’m currently learning practical coding(JS) at SheCodes Workshops, Thanks to SheCodes Foundation
  <br />
  📫 My email: s.roja.h.m@gmail.com
