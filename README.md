@@ -1,6 +1,6 @@
  👋 Hi, I’m @Rojahm
  <hr />
- 👩‍💻 I work as I.T. admin in a small institute
+ 👩‍💻 I work as I.T. admin in a small institute. Microsoft MCITP Style! I enjoy working but there is not much for me to learn here, so I'm trying to change.
  <br />
  👀 I’m interested in a great remote job, to spend more time with my cats and less time commuting! 
  <br />
