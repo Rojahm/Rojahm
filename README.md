@@ -6,13 +6,15 @@
  <br />
  💻 Interesed in linux and working to get my LPIC-1
  <br />
- 🌱 I’m currently learning practical coding(JS) at SheCodes Workshops, Thanks to SheCodes Foundation
+ 🌱 Finished learning practical coding(JS) at SheCodes Workshops, Thanks to SheCodes Foundation
+ <br />
+ 👊 Love the front-end and exploring react everyday. Since i have to really undrestand how things completely work I'm learning my way through Redux, Database structures, Nodejs and cloud microservices. I don't aim to do everything at once myself because that's what you do when you know how vastly detailed with tricks and practices every framework is. And i love to master the fabulous tricks of frameworks i work with after i'm sure i know how everything works in the whole development and production process.
  <br />
  📫 My email: s.roja.h.m@gmail.com
  <br />
  😻 I enjoy swimming, riding my bike
  <br />
- 🎹 past four years i've been practicing piano and learning music theory
+ 🎹 Past years i've been practicing piano and learning music theory
  <br />
  🎸 Hope to spend more time with the guitar and making music
  <br /> 
