@@ -2,6 +2,8 @@
  <hr />
  👩‍💻 I work as I.T. admin in a small institute. Microsoft MCITP Style! I enjoy working but there is not much for me to learn here, so I'm trying to change.
  <br />
+ done with studying nodejs and working with expressjs, nextjs and redux projects
+ <br />
  👀 I’m interested in a great remote job, to spend more time with my cats and less time commuting! 
  <br />
  💻 Interesed in linux and working to get my LPIC-1
