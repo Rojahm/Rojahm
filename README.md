@@ -1,4 +1,4 @@
- 👋 Hi, I’m @Rojahm
+ 👋 Hi, I’m @Rojahm and Next js is Fantastic
  <hr />
  👩‍💻 I work as I.T. admin in a small institute. Microsoft MCITP Style! I enjoy working but there is not much for me to learn here, so I'm trying to change.
  <br />
